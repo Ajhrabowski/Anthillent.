@@ -1,0 +1,47 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.header {
+    padding: 40px;
+    background-color: blue;
+  
+  
+}
+
+h1 {
+
+    font-size: 100px;
+    margin-left: 400px;
+
+}
+
+
+a {
+    color: white;
+    
+}
+
+#logo {
+    width: 1000px;
+    height: 1000px;
+    margin-left: 160px;
+    
+
+    
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 220px;
+    position: relative; top: 20px;
+   
+    
+    
+}
+
+
